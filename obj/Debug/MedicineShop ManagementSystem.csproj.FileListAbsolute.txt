@@ -1,0 +1,28 @@
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\MedicineShop ManagementSystem.csprojAssemblyReference.cache
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Accountant_Panel.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Admin_ManageUsers.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Presentation_Layer.ChangePassword.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Login.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Admin_Home.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.InventoryManage.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.InventoryManager_AddSection.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Presentation_Layer.Sales_PickOrder.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Properties.Resources.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Home_Sales.resources
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\MedicineShop ManagementSystem.csproj.GenerateResource.cache
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\MedicineShop ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\Medicalshop.exe.config
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\Medicalshop.exe
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\Medicalshop.pdb
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\MedicineShop ManagementSystem.csproj.CopyComplete
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.exe
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.pdb
+C:\Users\ABiR BeAtZ\Desktop\Medicine Shop\obj\Debug\Medicalshop.Admin_InventoryManage.resources
